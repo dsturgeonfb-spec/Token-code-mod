@@ -1,0 +1,10 @@
+﻿{
+  "extraKnownMarketplaces": {
+    "token-spend-marketplace": {
+      "source": { "source": "github", "repo": "dsturgeonfb-spec/Token-code-mod" }
+    }
+  },
+  "enabledPlugins": {
+    "token-spend@token-spend-marketplace": true
+  }
+}
