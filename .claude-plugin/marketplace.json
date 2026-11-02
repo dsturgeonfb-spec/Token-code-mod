@@ -1,0 +1,11 @@
+﻿{
+  "name": "token-spend-marketplace",
+  "owner": { "name": "David Sturgeon" },
+  "plugins": [
+    {
+      "name": "token-spend",
+      "source": "./",
+      "description": "Session and day token spend in the status line, plus a per-project dashboard, priced in GBP"
+    }
+  ]
+}

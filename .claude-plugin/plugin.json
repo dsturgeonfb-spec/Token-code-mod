@@ -1,0 +1,6 @@
+{
+  "name": "token-spend",
+  "version": "0.1.0",
+  "description": "Dashboard of Claude Code token spend per project, priced at API list rates in GBP",
+  "types": "./types/index.d.ts"
+}
